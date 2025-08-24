@@ -1,0 +1,30 @@
+@keyframes glitch {
+  0% {
+    transform: translate3d(0, 0, 0);
+    clip-path: inset(0 0 0 0);
+  }
+  20% {
+    transform: translate3d(-2px, -1px, 0);
+    clip-path: inset(10% 0 10% 0);
+  }
+  40% {
+    transform: translate3d(2px, 1px, 0);
+    clip-path: inset(20% 0 30% 0);
+  }
+  60% {
+    transform: translate3d(-1px, 2px, 0);
+    clip-path: inset(30% 0 10% 0);
+  }
+  80% {
+    transform: translate3d(1px, -2px, 0);
+    clip-path: inset(10% 0 20% 0);
+  }
+  100% {
+    transform: translate3d(0, 0, 0);
+    clip-path: inset(0 0 0 0);
+  }
+}
+
+.motion-safe\:animate-glitch {
+  animation: glitch 2.8s infinite linear;
+}
