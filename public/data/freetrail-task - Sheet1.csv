@@ -1,0 +1,68 @@
+courseId,courseName,chapterId,chapterName,lessonId,lessonName,taskId,taskTitle,scenario,pdfUrls,tallyUrls,answerKeyUrl,xp,instructions
+course_1,QA/QC Free Trial,ch_1_01,Trial Chapter,les_1_01_01,Entering the Ward Zone – Hospital QMS Framework & Accreditation Codes,task_1_01_01_1,Ward QMS Compliance Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, Quality Assurance Lead. During a routine ward audit in Ward 3 (General Medicine), you review the Hand Hygiene Compliance Log (LOG-2025-027) against SOP-QA-010 (Hand Hygiene Protocol). 
+
+You find that 6 out of 10 shift logs lack hand hygiene verification entries, violating SOP-QA-010 and NABH Standard AAC.5 (Access to Care and Continuity). Dr. Nair instructs you to document the non-compliance and recommend improvements using the Compliance Verification Form to prepare for an upcoming NABH audit.
+
+Deliverable: 
+Completed Compliance Verification Form (100–150 words total across REMARKS, Deviation Details, Suggested Improvements) documenting the ward audit findings and proposed improvements for NABH compliance.",https://drive.google.com/file/d/1bLmLXpRb4qXC4-P6qaqpUwd56AAr9OVS/view?usp=sharing,https://tally.so/r/m6Bzeo,https://drive.google.com/file/d/17drwExMRHIqFB9BL4pECh31M4hVZ7qwD/view?usp=sharing,10,"Click “Reference Documents” to review SOP-QA-010 and Hand Hygiene Compliance Log.
+Compare SOP-QA-010 (requires hand hygiene verification entries per shift) to LOG-2025-027 (missing entries).
+Open “Fillable Document” (Compliance Verification Form).
+Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FAIL), provide REMARKS (e.g., missing entries), detail deviation, and suggest improvements (e.g., retrain staff, add digital logging).
+Submit via “Answer Portal”."
+course_2,Clinical Research Free Trial,ch_2_01,Trial Chapter,les_2_01_01,Source Data Verification (SDV),task_2_01_01_1,SDV Simulation Task: Quick Data Check Challenge,"You’re a Clinical Research Associate (CRA) for PharmaCorp, checking data for a lung cancer drug trial, OncoX-500. At Site 001 in Boston, you’ll review records for one patient to ensure the trial data is correct and safe, following simple research rules.
+
+Deliverables :
+Make your final report inside OMEGA.
+-Data Check Report: A brief list of up to 3 data issues found, their types (mistake, missing info, rule break), where they were found, and how to fix them, using the provided template.
+- Quick Reflection: A 100-word paragraph in the report explaining why checking data matters for patient safety and trial honesty.",https://drive.google.com/file/d/1vrWK9BE0LZMRiC4LP8yD6_Hqep43lKoZ/view?usp=sharing,https://tally.so/r/w5NPbv,https://drive.google.com/file/d/11LbrGbV3o5VtVH7JY1-jQBM4nms_gf4M/view?usp=sharing,10,"Get Started (Preparation – 1 minute): 
+Open the reference document, “OncoX-500_SDV_Quick_Reference_PDF.pdf,” which includes:
+    - Simple trial rules (e.g., visit timing, side effect reporting).
+    - Patient 001’s records (hospital notes for two visits).
+    - Patient 001’s Case Report Form (CRF) with trial data.
+    - A short Data Check Report Template.
+    - A one-page guide on SDV rules.
+    Set a 5-minute timer to stay focused.
+Check the Data (SDV Activity – 3 minutes): 
+    - Compare Patient 001’s hospital notes to the CRF for two visits.
+    - Look for problems like:
+    - Wrong info (e.g., wrong temperature in CRF).
+    - Missing info (e.g., side effect not in CRF).
+    - Rule breaks (e.g., visit too late).
+    - List up to 3 problems in the report template, noting their type and where found (e.g., “Visit 2 CRF”).
+Report (Finalization – 1 minute): 
+    - Report your findings inside the fillable report document."
+course_3,Pharmacovigilance Free Trial,ch_3_01,Trial Chapter,les_3_01_01,Classification of an Adverse Event,task_3_01_01_1,Identify Correct Classification of an Adverse Event in a Clinical Study Report,"As a Pharmacovigilance Specialist at MediSafe Inc., your task is to review a clinical study report for Drug X and check whether a reported event is classified correctly.
+The report currently labels the problem as an Adverse Drug Reaction (ADR). Your job is to confirm if this is accurate or if it should be reclassified as an Adverse Event (AE), Serious Adverse Event (SAE), or ADR.
+This quick, 3-minute review ensures the report follows ICH-GCP guidelines.
+
+Deliverable:
+A filled report form along with a 30-word justification statement indicating whether the event in the report is correctly classified as an AE, SAE, or ADR, and if incorrect, provide the correct classification with a brief rationale.",https://drive.google.com/file/d/1Vv3cdBbMxT417MwNdjlmQWakfTEcmvtP/view?usp=sharing,https://tally.so/r/m6q6jJ,https://drive.google.com/file/d/1pFZ-WfIphOBIA1PXhQUsnxShaq1h5roh/view?usp=sharing,10,"Access the Report: Review the clinical study report summary for Drug X (attached below).
+Evaluate Event Classification: Identify the reported event and its classification (AE, SAE, or ADR). Check if it aligns with the definitions:
+AE: Any untoward medical occurrence, no causal link required.
+SAE: An AE that is life-threatening, causes hospitalization, death, disability, or congenital anomaly.
+ADR: An AE with a causal link to the drug.
+Write Deliverable inside OMEGA WORD: In 30 words, state if the classification is correct. If incorrect, specify the correct classification and why (e.g., based on seriousness or causality). Submit as a single document."
+course_4,CDM Free Trial,ch_4_01,Trial Chapter,les_4_01_01,Adverse Events Documenting,task_4_01_01_1,Document Adverse Events Data for Drug Z Trial Using AI,"As a clinical data manager at DataCore Solutions, your supervisor has emailed you a casually formatted dataset of adverse events (AEs) from the Drug Z Phase II trial. They request that you use an AI tool (e.g., Claude) to refine and professionally document this data into a structured summary table for a clinical study report, ensuring compliance with ICH-GCP guidelines. This straightforward task is designed for completion in 3 minutes.
+
+Deliverable:
+A 30-word summary table (in text format) professionally documenting the AEs, their frequencies (Drug Z vs. placebo), and severity, formatted for a clinical study report.",https://drive.google.com/file/d/1jeApXg39xjmnCf3ahHVk4WQevQ7SqllV/view?usp=sharing,https://tally.so/r/m6q6jJ,https://drive.google.com/file/d/19TtV2gfuEKcOfZm42HKZDd7T9RkGsN-T/view?usp=sharing,10,"Review the Email Data: Access the supervisor’s emailed AE dataset (attached below).
+Use AI Tool: Input the provided prompt into an AI tool (e.g., Claude) or simulate manually:
+Prompt: Refine the provided Drug Z trial AE data into a professional summary table, listing adverse events, frequencies (Drug Z vs. placebo), and severity, per ICH-GCP guidelines.
+Write Deliverable: In 30 words, produce a text-based table summarizing AEs, frequencies, and severity. Submit as a single document."
+course_5,Regulatory Affairs Free Trial,ch_5_01,Trial Chapter,les_5_01_01,Nonclinical Data Structure with AI Parsing,task_5_01_01_1,Identify Missing GLP Compliance Statement in a Nonclinical Study Report,"As a regulatory scientist at PharmaCorp, you are tasked with reviewing a nonclinical study report for Compound Z to determine if it includes a Good Laboratory Practice (GLP) compliance statement, as required by ICH M3 and OECD GLP guidelines. This straightforward task should take approximately 3 minutes.
+
+Deliverable:
+OMEGA WORD: The report lacks a GLP compliance statement. Inclusion is strongly recommended to meet ICH M3 and OECD GLP requirements, ensuring regulatory acceptance and validity of nonclinical safety data for Compound Z.",https://drive.google.com/file/d/1ncDJlkrclQnbNA9bVBEIrWbvlNQhrHhl/view?usp=sharing,https://tally.so/r/m6q6jJ,https://drive.google.com/file/d/17b4P4vI0jdlxUXUsOkBZNb6aBDCxmigv/view?usp=sharing,10,"Access the Report: Review the attached nonclinical study report for Compound Z (see attachment below).
+Check for GLP Statement: Look for a specific statement confirming OECD GLP compliance, typically in a quality assurance or methods section.
+Write Deliverable: In 30 words, inside OMEGA WORD, state if the GLP statement is present or absent. If absent, suggest adding it for compliance. Submit as a single document."
+course_6,Medical Affairs Free Trial,ch_6_01,Trial Chapter,les_6_01_01,Scientific Writing Fundamentals,task_6_01_01_1,Draft a Dosage and Administration Section for a Product Monograph for Drug Z,"As a scientific writer at HealthDoc Solutions, you are tasked with drafting the Dosage and Administration section for a product monograph for Drug Z, a new antihypertensive drug. This simple task, designed for completion in 3 minutes, ensures compliance with ICH and FDA guidelines.
+
+Deliverable:
+OMEGA WORD:
+Dosage and Administration
+The recommended starting dose of Drug Z is 10 mg orally once daily, with or without food. Dose may be titrated to 20 mg daily based on response. Administer consistently at the same time each day.",https://drive.google.com/file/d/1j6C4ni5C_rOFV1ZE0P5Z-on7RRWmMWsq/view?usp=sharing,https://tally.so/r/m6q6jJ,https://drive.google.com/file/d/1jrIqIbSoHSNJBXh1nF3sq64gCqPv5VQg/view?usp=sharing,10,"Access the Monograph: Review the product monograph draft for Drug Z (attached below) for relevant drug details.
+Draft the Section with reference or by using AI: Write a concise Dosage and Administration section including:
+Recommended dose for adults.
+Route of administration (e.g., oral).
+Key instructions (e.g., timing, food considerations).
+Write Deliverable: In 30 words, create a clear, scientifically accurate section suitable for healthcare professionals inside OMEGA WORD."
