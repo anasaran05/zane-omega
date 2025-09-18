@@ -15,10 +15,10 @@ course_1,ch_1_01,les_1_01_01,topic_1_01_01_01,quiz_1_01_01_4,Which of the follow
 B) Outdated SOPs in use |
 C) Overstaffing during night shifts |
 D) Excessive use of hand sanitizers ",B
-course_1,ch_1_01,les_1_01_01,topic_1_01_01_01,quiz_1_01_01_5,"During an NABH audit, a ward is flagged for poor compliance with infection control protocols due to inconsistent hand hygiene during night shifts. As a QA/QC officer, which of the following sequences best represents a comprehensive approach to address this issue, incorporating root cause analysis and corrective actions?","A) Change ward leadership, reduce hand hygiene checks, and focus on other compliance areas |
-B) Reprimand night shift staff, update SOPs without analysis, and conduct a single follow-up audit |
-C) Identify the issue, analyze root causes, implement automated hand sanitizer sensors linked to EMR, and monitor compliance improvements |
-D) Install new hand sanitizers, ignore night shift data, and retrain all staff annually",C
+course_1,ch_1_01,les_1_01_01,topic_1_01_01_01,quiz_1_01_01_5,"During an NABH audit, a ward shows poor hand hygiene at night. Which is the best approach?","A) Change leadership, reduce checks, focus elsewhere |
+B) Reprimand staff, update SOPs, one audit |
+C) Identify issue, find root cause, add automated sanitizers, monitor |
+D) Install sanitizers, ignore night data, annual retraining",C
 course_2,ch_2_01,les_2_01_01,topic_2_01_01_1,quiz_2_01_01_1,Which of the following best describes source documents in a clinical trial context?,"A) Copies of case report forms (CRFs) |
 B) Original records where trial data is first captured |
 C) Digital platforms like Medidata or Viva |
@@ -35,9 +35,9 @@ course_2,ch_2_01,les_2_01_01,topic_2_01_01_1,quiz_2_01_01_4,Which of the followi
 B) Initialing and dating the correction |
 C) Providing a reason for the correction |
 D) Erasing the original entry completely",D
-course_2,ch_2_01,les_2_01_01,topic_2_01_01_1,quiz_2_01_01_5,What is the primary role of the Clinical Research Coordinator (CRC) in managing study documentation?,"A) To monitor the study remotely and verify data accuracy
-B) To record source data accurately and perform initial CRF data entry
-C) To provide training to the study team on protocol compliance
+course_2,ch_2_01,les_2_01_01,topic_2_01_01_1,quiz_2_01_01_5,What is the primary role of the Clinical Research Coordinator (CRC) in managing study documentation?,"A) To monitor the study remotely and verify data accuracy |
+B) To record source data accurately and perform initial CRF data entry |
+C) To provide training to the study team on protocol compliance |
 D) To audit the study site for regulatory compliance",B
 course_3,ch_3_01,les_3_01_01,topic_3_01_01_1,quiz_3_01_01_1,"Why is accurate classification of AE, SAE, and ADR critical in clinical trials?","A. To reduce paperwork for investigators. |
 B. To comply with ICH-GCP and regulatory requirements. |
@@ -59,63 +59,63 @@ course_3,ch_3_01,les_3_01_01,topic_3_01_01_1,quiz_3_01_01_5,Which of the followi
 B. Any untoward medical occurrence after drug administration, regardless of causality. |
 C. Only events requiring hospitalization. |
 D. Any event listed on the drug’s label.",B
-course_4,ch_4_01,les_4_01_01,topic_4_01_01_1,quiz_4_01_01_1,What is the primary goal of Clinical Data Management (CDM)?,"A. To reduce clinical trial costs
-B. To ensure accuracy, completeness, and compliance of trial data
-C. To replace clinical investigators with AI
+course_4,ch_4_01,les_4_01_01,topic_4_01_01_1,quiz_4_01_01_1,What is the primary goal of Clinical Data Management (CDM)?,"A. To reduce clinical trial costs |
+B. To ensure accuracy, completeness, and compliance of trial data |
+C. To replace clinical investigators with AI |
 D. To speed up patient recruitment",B
-course_4,ch_4_01,les_4_01_01,topic_4_01_01_1,quiz_4_01_01_2,Which of the following is not a role of AI in clinical data management?,"A. Detecting anomalies in datasets
-B. Automatically coding adverse events
-C. Predicting potential safety signals
+course_4,ch_4_01,les_4_01_01,topic_4_01_01_1,quiz_4_01_01_2,Which of the following is not a role of AI in clinical data management?,"A. Detecting anomalies in datasets |
+B. Automatically coding adverse events |
+C. Predicting potential safety signals |
 D. Approving drugs for market use",D
-course_4,ch_4_01,les_4_01_01,topic_4_01_01_1,quiz_4_01_01_3,Which tool type and purpose are correctly matched?,"A. Trifacta – Data Cleaning and Validation
-B. MedDRA AI Coder – Data Visualization
-C. Tableau AI – Adverse Event Coding
+course_4,ch_4_01,les_4_01_01,topic_4_01_01_1,quiz_4_01_01_3,Which tool type and purpose are correctly matched?,"A. Trifacta – Data Cleaning and Validation |
+B. MedDRA AI Coder – Data Visualization |
+C. Tableau AI – Adverse Event Coding |
 D. spaCy – Predictive Analytics",A
-course_4,ch_4_01,les_4_01_01,topic_4_01_01_1,quiz_4_01_01_4,Why is human oversight still necessary when using AI in CDM?,"A. AI cannot process large datasets.
-B. AI outputs must be validated for accuracy and regulatory compliance.
-C. Regulators do not allow AI use in trials.
+course_4,ch_4_01,les_4_01_01,topic_4_01_01_1,quiz_4_01_01_4,Why is human oversight still necessary when using AI in CDM?,"A. AI cannot process large datasets. |
+B. AI outputs must be validated for accuracy and regulatory compliance. |
+C. Regulators do not allow AI use in trials. |
 D. AI always generates biased results.",B
-course_4,ch_4_01,les_4_01_01,topic_4_01_01_1,quiz_4_01_01_5,A Phase II dataset has missing lab values and inconsistent AE coding. Which AI applications would best address this issue?,"A. NLP for extracting clinical notes only
-B. Data Cleaning + Automated Coding
-C. Data Visualization only
+course_4,ch_4_01,les_4_01_01,topic_4_01_01_1,quiz_4_01_01_5,A Phase II dataset has missing lab values and inconsistent AE coding. Which AI applications would best address this issue?,"A. NLP for extracting clinical notes only |
+B. Data Cleaning + Automated Coding |
+C. Data Visualization only |
 D. Predictive Analytics only",B
-course_5,ch_5_01,les_5_01_01,topic_5_01_01_1,quiz_5_01_01_1,What is the primary purpose of nonclinical study reports?,"A. To demonstrate market potential of a drug
-B. To demonstrate safety before clinical testing in humans
-C. To evaluate only pharmacology data
+course_5,ch_5_01,les_5_01_01,topic_5_01_01_1,quiz_5_01_01_1,What is the primary purpose of nonclinical study reports?,"A. To demonstrate market potential of a drug |
+B. To demonstrate safety before clinical testing in humans |
+C. To evaluate only pharmacology data |
 D. To confirm cost-effectiveness of drug development",B
-course_5,ch_5_01,les_5_01_01,topic_5_01_01_1,quiz_5_01_01_2,Which of the following is not typically part of a nonclinical study report?,"A. Test Substance Information
-B. Study Design
-C. Market Access Strategy
+course_5,ch_5_01,les_5_01_01,topic_5_01_01_1,quiz_5_01_01_2,Which of the following is not typically part of a nonclinical study report?,"A. Test Substance Information |
+B. Study Design |
+C. Market Access Strategy |
 D. Quality Assurance Statement",C
-course_5,ch_5_01,les_5_01_01,topic_5_01_01_1,quiz_5_01_01_3,Safety pharmacology studies focus mainly on which systems?,"A. Renal, hepatic, and metabolic
-B. Cardiovascular, respiratory, and central nervous system
-C. Musculoskeletal and dermatological
+course_5,ch_5_01,les_5_01_01,topic_5_01_01_1,quiz_5_01_01_3,Safety pharmacology studies focus mainly on which systems?,"A. Renal, hepatic, and metabolic |
+B. Cardiovascular, respiratory, and central nervous system |
+C. Musculoskeletal and dermatological |
 D. Immunological and reproductive",B
-course_5,ch_5_01,les_5_01_01,topic_5_01_01_1,quiz_5_01_01_4,How can AI parsing tools support review of nonclinical study reports?,"A. By generating new experimental data
-B. By flagging missing fields and inconsistencies
-C. By replacing toxicology experts entirely
+course_5,ch_5_01,les_5_01_01,topic_5_01_01_1,quiz_5_01_01_4,How can AI parsing tools support review of nonclinical study reports?,"A. By generating new experimental data |
+B. By flagging missing fields and inconsistencies |
+C. By replacing toxicology experts entirely |
 D. By designing study protocols automatically",B
-course_5,ch_5_01,les_5_01_01,topic_5_01_01_1,quiz_5_01_01_5,Which regulatory frameworks are most relevant to nonclinical study reporting?,"A. ICH M3, OECD GLP, FDA, EMA, CDSCO
-B. ISO 9001, GMP, and GDP
-C. WHO EML and UN guidelines
+course_5,ch_5_01,les_5_01_01,topic_5_01_01_1,quiz_5_01_01_5,Which regulatory frameworks are most relevant to nonclinical study reporting?,"A. ICH M3, OECD GLP, FDA, EMA, CDSCO |
+B. ISO 9001, GMP, and GDP |
+C. WHO EML and UN guidelines |
 D. HIPAA and GDPR",A
-course_6,ch_6_01,les_6_01_01,topic_6_01_01_1,quiz_6_01_01_1,What is the primary purpose of a product monograph?,"A. To summarize marketing strategies and promotional claims
-B. To provide evidence-based, comprehensive information on a drug’s properties, dosing, and safety for healthcare professionals and regulators
-C. To instruct patients on self-administration
+course_6,ch_6_01,les_6_01_01,topic_6_01_01_1,quiz_6_01_01_1,What is the primary purpose of a product monograph?,"A. To summarize marketing strategies and promotional claims |
+B. To provide evidence-based, comprehensive information on a drug’s properties, dosing, and safety for healthcare professionals and regulators |
+C. To instruct patients on self-administration |
 D. To outline pricing and reimbursement policies",B
-course_6,ch_6_01,les_6_01_01,topic_6_01_01_1,quiz_6_01_01_2,Which of the following sections is essential in a product monograph?,"A. Adverse Reactions
-B. Competitor Drug Analysis
-C. Marketing Strategy
+course_6,ch_6_01,les_6_01_01,topic_6_01_01_1,quiz_6_01_01_2,Which of the following sections is essential in a product monograph?,"A. Adverse Reactions |
+B. Competitor Drug Analysis |
+C. Marketing Strategy |
 D. Patient Testimonials",A
-course_6,ch_6_01,les_6_01_01,topic_6_01_01_1,quiz_6_01_01_3,Which of the following best describes the recommended writing style for regulatory product monographs?,"A. Persuasive and promotional
-B. Clear, concise, objective, and evidence-based
-C. Narrative and anecdotal
+course_6,ch_6_01,les_6_01_01,topic_6_01_01_1,quiz_6_01_01_3,Which of the following best describes the recommended writing style for regulatory product monographs?,"A. Persuasive and promotional |
+B. Clear, concise, objective, and evidence-based |
+C. Narrative and anecdotal |
 D. Highly technical with ambiguous language",B
-course_6,ch_6_01,les_6_01_01,topic_6_01_01_1,quiz_6_01_01_4,"When using AI to assist in drafting a product monograph, which approach aligns with best professional practices?","A. Accepting AI-generated content as final without review
-B. Using AI to draft sections and then validating content for accuracy, clarity, and regulatory compliance
-C. Using AI only for formatting and ignoring content generation
+course_6,ch_6_01,les_6_01_01,topic_6_01_01_1,quiz_6_01_01_4,"When using AI to assist in drafting a product monograph, which approach aligns with best professional practices?","A. Accepting AI-generated content as final without review |
+B. Using AI to draft sections and then validating content for accuracy, clarity, and regulatory compliance |
+C. Using AI only for formatting and ignoring content generation |
 D. Relying solely on AI for literature references without verification",B
-course_6,ch_6_01,les_6_01_01,topic_6_01_01_1,quiz_6_01_01_5,"While drafting the “Drug Interactions” section, which practice ensures both scientific accuracy and regulatory compliance?","A. Listing only interactions from competitor drugs
-B. Summarizing observed interactions with references and consistent terminology
-C. Using simplified language without citing sources
+course_6,ch_6_01,les_6_01_01,topic_6_01_01_1,quiz_6_01_01_5,"While drafting the “Drug Interactions” section, which practice ensures both scientific accuracy and regulatory compliance?","A. Listing only interactions from competitor drugs |
+B. Summarizing observed interactions with references and consistent terminology |
+C. Using simplified language without citing sources |
 D. Reporting only immediately life-threatening interactions",B
