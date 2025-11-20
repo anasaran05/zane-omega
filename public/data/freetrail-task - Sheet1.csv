@@ -14,51 +14,51 @@ Procedure: Laparoscopic cholecystectomy
 Post-op Day: 2
 Risk trajectory: Assessed as low risk 6 hours ago; the system now indicates a significant deterioration pattern with concurrent signals across several physiological domains.
 
-Your operational mandate within this scenario: interpret the surfaced intelligence, validate the warning pattern, and authorize the appropriate escalation to protect the patient and contain clinical risk.","1. **Vitals Trajectory (AI-Enhanced Trend – last 6 hours)**
-    - Heart Rate: 78 → 112 bpm (accelerating)
-    - Respiratory Rate: 18 → 28 breaths/min
-    - SpO₂: 96% → 91% on room air
-    - BP: 138/82 → 108/68 (declining)
-    - Temperature: 37.1 → 38.4 °C
+Your operational mandate within this scenario: interpret the surfaced intelligence, validate the warning pattern, and authorize the appropriate escalation to protect the patient and contain clinical risk.","1. Vitals Trajectory (AI-Enhanced Trend – last 6 hours)
+  Heart Rate: 78 → 112 bpm (accelerating)
+  Respiratory Rate: 18 → 28 breaths/min
+  SpO₂: 96% → 91% on room air
+  BP: 138/82 → 108/68 (declining)
+  Temperature: 37.1 → 38.4 °C
     → AI flags early shock physiology
-2. **Laboratory Signals (trending)**
-    - Lactate: 2.4 mmol/L ↑
-    - WBC: 14.8 × 10⁹/L ↑
-    - Creatinine: 1.4 mg/dL (new rise)
+2. Laboratory Signals (trending)
+  Lactate: 2.4 mmol/L ↑
+  WBC: 14.8 × 10⁹/L ↑
+  Creatinine: 1.4 mg/dL (new rise)
     → AI flags evolving organ stress + probable sepsis
-3. **Medication & Care Intensity Changes**
-    - Antibiotics escalated 8 h ago (pip-tazo)
-    - Morphine dose ↑ (pain breakthrough)
-    - IV fluids tapered to 75 mL/hr
-4. **NLP Extract from Nursing Documentation (Sentiment = High Concern)**
+3. Medication & Care Intensity Changes
+  Antibiotics escalated 8 h ago (pip-tazo)
+  Morphine dose ↑ (pain breakthrough)
+  IV fluids tapered to 75 mL/hr
+4. NLP Extract from Nursing Documentation (Sentiment = High Concern)
     
     “Patient diaphoretic, restless, chest tightness worsening, abdominal pain higher than baseline. Slight confusion noted. Breathing appears labored.”
     
     → AI keyword cluster match: 91% similarity to past deterioration cases
     
-5. **Predictive Engine Output**
+5. Predictive Engine Output
     
-    **Deterioration Risk Score: 0.78 (HIGH → Critical threshold)**
+    Deterioration Risk Score: 0.78 (HIGH → Critical threshold)
     
     Projected time to irreversible event: 4–8 hours without escalation
     
     Top drivers:
     
-    - Respiratory rate trajectory +29%
-    - Lactate momentum +22%
-    - NLP red-flag cluster +18%","**Option A** – Authorise Early Intervention Protocol (system-recommended for scores ≥0.75)
+  Respiratory rate trajectory +29%
+  Lactate momentum +22%
+  NLP red-flag cluster +18%","Option A – Authorise Early Intervention Protocol (system-recommended for scores ≥0.75)
 
 Immediate Rapid Response Team activation + stat labs + oxygen escalation + early sepsis bundle initiation
 
-**Option B** – Authorise Enhanced Monitoring Pathway
+Option B – Authorise Enhanced Monitoring Pathway
 
 q30-min vitals + telemetry + junior physician review mandated within 60 minutes + pre-staging of RRT
 
-**Option C** – Maintain Current Care Pathway
+Option C – Maintain Current Care Pathway
 
 No escalation; continue routine post-op protocol until morning rounds
 
-[The system is waiting for your authorisation]","**If you chose A – Optimal Decision Intelligence**
+[The system is waiting for your authorisation]","If you chose A – Optimal Decision Intelligence
 
 Outcome by 10:00 AM
 
@@ -72,7 +72,7 @@ Outcome by 10:00 AM
 Your Decision Quality Score: 94th percentile
 Voiceover: “You read converging signals and authorised decisive action. This is elite decision intelligence in practice.”
 
-**If you chose B – Suboptimal Delay**
+If you chose B – Suboptimal Delay
 
 Outcome by 06:30 AM
 
@@ -83,7 +83,7 @@ Outcome by 06:30 AM
 Your Decision Quality Score: 52nd percentile
 Voiceover: “Enhanced monitoring bought time but missed the reversal window. High-risk convergence demands faster escalation.”
 
-**If you chose C – Intelligence Override (High Risk)**
+If you chose C – Intelligence Override (High Risk)
 
 Outcome by 04:45 AM
 
@@ -116,21 +116,21 @@ Make your final report inside OMEGA.
 -Data Check Report: A brief list of up to 3 data issues found, their types (mistake, missing info, rule break), where they were found, and how to fix them, using the provided template.
 - Quick Reflection: A 100-word paragraph in the report explaining why checking data matters for patient safety and trial honesty.",https://drive.google.com/file/d/1vrWK9BE0LZMRiC4LP8yD6_Hqep43lKoZ/view?usp=sharing,https://tally.so/r/w5NPbv,https://drive.google.com/file/d/11LbrGbV3o5VtVH7JY1-jQBM4nms_gf4M/view?usp=sharing,10,"Get Started (Preparation – 1 minute): 
 Open the reference document, “OncoX-500_SDV_Quick_Reference_PDF.pdf,” which includes:
-    - Simple trial rules (e.g., visit timing, side effect reporting).
-    - Patient 001’s records (hospital notes for two visits).
-    - Patient 001’s Case Report Form (CRF) with trial data.
-    - A short Data Check Report Template.
-    - A one-page guide on SDV rules.
+  Simple trial rules (e.g., visit timing, side effect reporting).
+  Patient 001’s records (hospital notes for two visits).
+  Patient 001’s Case Report Form (CRF) with trial data.
+  A short Data Check Report Template.
+  A one-page guide on SDV rules.
     Set a 5-minute timer to stay focused.
 Check the Data (SDV Activity – 3 minutes): 
-    - Compare Patient 001’s hospital notes to the CRF for two visits.
-    - Look for problems like:
-    - Wrong info (e.g., wrong temperature in CRF).
-    - Missing info (e.g., side effect not in CRF).
-    - Rule breaks (e.g., visit too late).
-    - List up to 3 problems in the report template, noting their type and where found (e.g., “Visit 2 CRF”).
+  Compare Patient 001’s hospital notes to the CRF for two visits.
+  Look for problems like:
+  Wrong info (e.g., wrong temperature in CRF).
+  Missing info (e.g., side effect not in CRF).
+  Rule breaks (e.g., visit too late).
+  List up to 3 problems in the report template, noting their type and where found (e.g., “Visit 2 CRF”).
 Report (Finalization – 1 minute): 
-    - Report your findings inside the fillable report document.",task
+  Report your findings inside the fillable report document.",task
 course_3,Pharmacovigilance Free Trial,"Monitor, evaluate, and manage drug safety to protect patients and ensure regulatory compliance.",ch_3_01,Trial Chapter,les_3_01_01,Classification of an Adverse Event,task_3_01_01_1,Identify Correct Classification of an Adverse Event in a Clinical Study Report,"As a Pharmacovigilance Specialist at MediSafe Inc., your task is to review a clinical study report for Drug X and check whether a reported event is classified correctly.
 The report currently labels the problem as an Adverse Drug Reaction (ADR). Your job is to confirm if this is accurate or if it should be reclassified as an Adverse Event (AE), Serious Adverse Event (SAE), or ADR.
 This quick, 3-minute review ensures the report follows ICH-GCP guidelines.
