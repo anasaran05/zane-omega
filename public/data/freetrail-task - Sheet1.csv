@@ -35,7 +35,7 @@ IV fluids tapered to 75 mL/hr
 
 4. NLP Extract from Nursing Documentation (Sentiment = High Concern)
 
-""Patient diaphoretic, restless, chest tightness worsening, abdominal pain higher than baseline. Slight confusion noted. Breathing appears labored.""
+Patient diaphoretic; restless; chest tightness worsening; abdominal pain higher than baseline; slight confusion noted; breathing appears labored.
 → AI keyword cluster match: 91% similarity to past deterioration cases
 
 5. Predictive Engine Output
@@ -166,3 +166,4 @@ Route of administration (e.g., oral).
 Key instructions (e.g., timing, food considerations).
 Write Deliverable: In 30 words, create a clear, scientifically accurate section suitable for healthcare professionals inside OMEGA WORD.",task
 course_8,"Healthcare Consulting, Analytics and Digital Transformation","Covers healthcare consulting, analytical problem-solving and digital-transformation frameworks for operational and strategic improvement.",ch_8_01,Trial Chapter,les_8_01_01,Scientific Writing Fundamentals,task_8_01_01_1,"Architecting the Intelligent, Data-Driven Healthcare Ecosystem",,,,,,,
+
