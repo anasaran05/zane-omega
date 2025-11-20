@@ -1,4 +1,104 @@
-courseId,courseName,coursedescription,chapterId,chapterName,lessonId,lessonName,taskId,taskTitle,scenario,pdfUrls,tallyUrls,answerKeyUrl,xp,instructions
+courseId,courseName,coursedescription,chapterId,chapterName,lessonId,lessonName,taskId,taskTitle,scenario,pdfUrls,tallyUrls,answerKeyUrl,xp,instructions,taskType
+course_7,"AI Driven Healthcare Analytics, Decision Intelligence and Predictive Care Systems.","Focuses on AI-powered healthcare analytics, decision intelligence and predictive-care system design for outcome optimization.",ch_7_01,Trial Chapter,les_7_01_01,Strategic Enterprise Transformation Frameworks for Modern Healthcare,task_7_01_01_1,The 12-Minute $1.5 Billion Turnaround Challenge,"Time: 02:14 AM
+Location: Central Clinical Command Center
+Environment: Dark command-center style interface with multiple surveillance screens, telemetry grids, and a subtle pulsing red alert indicator across the top status rail
+
+A Critical Risk Alert has surfaced on your master console, auto-elevated by the hospital’s predictive care engine. You are functioning in your designated role as the Healthcare Decision Intelligence Analyst for the Clinical Command Center, responsible for interpreting real-time AI signals and authorizing escalation pathways for frontline units.
+
+A bedside nursing team submitted concern flags minutes earlier, and the system has now routed the case to Command Center authority due to the emergence of a multi-system warning pattern.
+
+Patient: Rajesh Kumar
+Age: 64
+Current status: Post-operative
+Procedure: Laparoscopic cholecystectomy
+Post-op Day: 2
+Risk trajectory: Assessed as low risk 6 hours ago; the system now indicates a significant deterioration pattern with concurrent signals across several physiological domains.
+
+Your operational mandate within this scenario: interpret the surfaced intelligence, validate the warning pattern, and authorize the appropriate escalation to protect the patient and contain clinical risk.","1. **Vitals Trajectory (AI-Enhanced Trend – last 6 hours)**
+    - Heart Rate: 78 → 112 bpm (accelerating)
+    - Respiratory Rate: 18 → 28 breaths/min
+    - SpO₂: 96% → 91% on room air
+    - BP: 138/82 → 108/68 (declining)
+    - Temperature: 37.1 → 38.4 °C
+    → AI flags early shock physiology
+2. **Laboratory Signals (trending)**
+    - Lactate: 2.4 mmol/L ↑
+    - WBC: 14.8 × 10⁹/L ↑
+    - Creatinine: 1.4 mg/dL (new rise)
+    → AI flags evolving organ stress + probable sepsis
+3. **Medication & Care Intensity Changes**
+    - Antibiotics escalated 8 h ago (pip-tazo)
+    - Morphine dose ↑ (pain breakthrough)
+    - IV fluids tapered to 75 mL/hr
+4. **NLP Extract from Nursing Documentation (Sentiment = High Concern)**
+    
+    “Patient diaphoretic, restless, chest tightness worsening, abdominal pain higher than baseline. Slight confusion noted. Breathing appears labored.”
+    
+    → AI keyword cluster match: 91% similarity to past deterioration cases
+    
+5. **Predictive Engine Output**
+    
+    **Deterioration Risk Score: 0.78 (HIGH → Critical threshold)**
+    
+    Projected time to irreversible event: 4–8 hours without escalation
+    
+    Top drivers:
+    
+    - Respiratory rate trajectory +29%
+    - Lactate momentum +22%
+    - NLP red-flag cluster +18%","**Option A** – Authorise Early Intervention Protocol (system-recommended for scores ≥0.75)
+
+Immediate Rapid Response Team activation + stat labs + oxygen escalation + early sepsis bundle initiation
+
+**Option B** – Authorise Enhanced Monitoring Pathway
+
+q30-min vitals + telemetry + junior physician review mandated within 60 minutes + pre-staging of RRT
+
+**Option C** – Maintain Current Care Pathway
+
+No escalation; continue routine post-op protocol until morning rounds
+
+[The system is waiting for your authorisation]","**If you chose A – Optimal Decision Intelligence**
+
+Outcome by 10:00 AM
+
+- RRT bedside in 7 minutes
+- Repeat lactate 3.8 → sepsis confirmed and reversed early
+- Patient stabilised on ward
+- Risk score falls 0.78 → 0.39
+- ICU transfer avoided
+- Projected LOS reduction: –1.8 days
+- Financial impact: –₹1,84,000 saved
+Your Decision Quality Score: 94th percentile
+Voiceover: “You read converging signals and authorised decisive action. This is elite decision intelligence in practice.”
+
+**If you chose B – Suboptimal Delay**
+
+Outcome by 06:30 AM
+
+- Progressive shock → emergency ICU transfer & intubation
+- Risk score climbs to 0.94
+- LOS impact: +4 days
+- Financial impact: +₹4,20,000
+Your Decision Quality Score: 52nd percentile
+Voiceover: “Enhanced monitoring bought time but missed the reversal window. High-risk convergence demands faster escalation.”
+
+**If you chose C – Intelligence Override (High Risk)**
+
+Outcome by 04:45 AM
+
+- Code Blue → hypoxic arrest → ICU ventilated
+- Permanent renal injury
+- Risk score spikes → 0.98
+- LOS impact: +11 days
+- Financial impact: +₹11,50,000
+Your Decision Quality Score: 8th percentile
+Voiceover: “Multiple aligned signals were overridden. This is where decision intelligence prevents preventable harm.”",10,"understand the scenario 
+click the reference document
+understand teh situation 
+choose the wise option to save the patient 
+hint-""When risk ≥0.75 + multi-domain instability + NLP red flags converge → authorise immediate intervention.
+Delays of even 1–2 hours turn reversible physiology into rescue events.""",simulation
 course_1,QA/QC Free Trial,"Gain hands-on expertise in ensuring product quality, compliance, and error-free manufacturing workflows.",ch_1_01,Trial Chapter,les_1_01_01,Entering the Ward Zone – Hospital QMS Framework & Accreditation Codes,task_1_01_01_1,Ward QMS Compliance Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, Quality Assurance Lead. During a routine ward audit in Ward 3 (General Medicine), you review the Hand Hygiene Compliance Log (LOG-2025-027) against SOP-QA-010 (Hand Hygiene Protocol). 
 
 You find that 6 out of 10 shift logs lack hand hygiene verification entries, violating SOP-QA-010 and NABH Standard AAC.5 (Access to Care and Continuity). Dr. Nair instructs you to document the non-compliance and recommend improvements using the Compliance Verification Form to prepare for an upcoming NABH audit.
@@ -8,7 +108,7 @@ Completed Compliance Verification Form (100–150 words total across REMARKS, De
 Compare SOP-QA-010 (requires hand hygiene verification entries per shift) to LOG-2025-027 (missing entries).
 Open “Fillable Document” (Compliance Verification Form).
 Fill the form: Check criteria (e.g., Documentation complete and accurate: B - FAIL), provide REMARKS (e.g., missing entries), detail deviation, and suggest improvements (e.g., retrain staff, add digital logging).
-Submit via “Answer Portal”."
+Submit via “Answer Portal”.",task
 course_2,Clinical Research Free Trial,Understand and execute end-to-end clinical trial operations with scientific rigor and ethical precision.,ch_2_01,Trial Chapter,les_2_01_01,Source Data Verification (SDV),task_2_01_01_1,SDV Simulation Task: Quick Data Check Challenge,"You’re a Clinical Research Associate (CRA) for PharmaCorp, checking data for a lung cancer drug trial, OncoX-500. At Site 001 in Boston, you’ll review records for one patient to ensure the trial data is correct and safe, following simple research rules.
 
 Deliverables 
@@ -30,7 +130,7 @@ Check the Data (SDV Activity – 3 minutes):
     - Rule breaks (e.g., visit too late).
     - List up to 3 problems in the report template, noting their type and where found (e.g., “Visit 2 CRF”).
 Report (Finalization – 1 minute): 
-    - Report your findings inside the fillable report document."
+    - Report your findings inside the fillable report document.",task
 course_3,Pharmacovigilance Free Trial,"Monitor, evaluate, and manage drug safety to protect patients and ensure regulatory compliance.",ch_3_01,Trial Chapter,les_3_01_01,Classification of an Adverse Event,task_3_01_01_1,Identify Correct Classification of an Adverse Event in a Clinical Study Report,"As a Pharmacovigilance Specialist at MediSafe Inc., your task is to review a clinical study report for Drug X and check whether a reported event is classified correctly.
 The report currently labels the problem as an Adverse Drug Reaction (ADR). Your job is to confirm if this is accurate or if it should be reclassified as an Adverse Event (AE), Serious Adverse Event (SAE), or ADR.
 This quick, 3-minute review ensures the report follows ICH-GCP guidelines.
@@ -41,20 +141,20 @@ Evaluate Event Classification: Identify the reported event and its classificatio
 AE: Any untoward medical occurrence, no causal link required.
 SAE: An AE that is life-threatening, causes hospitalization, death, disability, or congenital anomaly.
 ADR: An AE with a causal link to the drug.
-Write Deliverable inside OMEGA WORD: In 30 words, state if the classification is correct. If incorrect, specify the correct classification and why (e.g., based on seriousness or causality). Submit as a single document."
+Write Deliverable inside OMEGA WORD: In 30 words, state if the classification is correct. If incorrect, specify the correct classification and why (e.g., based on seriousness or causality). Submit as a single document.",task
 course_4,CDM Free Trial,"Organize, validate, and analyze clinical trial data to enable accurate and reliable study outcomes.",ch_4_01,Trial Chapter,les_4_01_01,Adverse Events Documenting,task_4_01_01_1,Document Adverse Events Data for Drug Z Trial Using AI,"As a clinical data manager at DataCore Solutions, your supervisor has emailed you a casually formatted dataset of adverse events (AEs) from the Drug Z Phase II trial. They request that you use an AI tool (e.g., Claude) to refine and professionally document this data into a structured summary table for a clinical study report, ensuring compliance with ICH-GCP guidelines. This straightforward task is designed for completion in 3 minutes.
 
 Deliverables
 A 30-word summary table (in text format) professionally documenting the AEs, their frequencies (Drug Z vs. placebo), and severity, formatted for a clinical study report.",https://drive.google.com/file/d/1jeApXg39xjmnCf3ahHVk4WQevQ7SqllV/view?usp=sharing,https://tally.so/r/wdLJLA ,https://drive.google.com/file/d/19TtV2gfuEKcOfZm42HKZDd7T9RkGsN-T/view?usp=sharing,10,"Review the Email Data: Access the supervisor’s emailed AE dataset (attached below).
 Use AI Tool: Input the provided prompt into an AI tool (e.g., Claude) or simulate manually:
 Prompt: Refine the provided Drug Z trial AE data into a professional summary table, listing adverse events, frequencies (Drug Z vs. placebo), and severity, per ICH-GCP guidelines.
-Write Deliverable: In 30 words, produce a text-based table summarizing AEs, frequencies, and severity. Submit as a single document."
+Write Deliverable: In 30 words, produce a text-based table summarizing AEs, frequencies, and severity. Submit as a single document.",task
 course_5,Regulatory Affairs Free Trial,Navigate complex regulatory landscapes to achieve approvals and maintain compliance efficiently.,ch_5_01,Trial Chapter,les_5_01_01,Nonclinical Data Structure with AI Parsing,task_5_01_01_1,Identify Missing GLP Compliance Statement in a Nonclinical Study Report,"As a regulatory scientist at PharmaCorp, you are tasked with reviewing a nonclinical study report for Compound Z to determine if it includes a Good Laboratory Practice (GLP) compliance statement, as required by ICH M3 and OECD GLP guidelines. This straightforward task should take approximately 3 minutes.
 
 Deliverables
 A 30-word statement indicating whether the report contains a GLP compliance statement or not, if missing, recommending its inclusion to ensure regulatory compliance. Put it inside OMEGA WORD.",https://drive.google.com/file/d/1ncDJlkrclQnbNA9bVBEIrWbvlNQhrHhl/view?usp=sharing,https://tally.so/r/wdLJLA ,https://drive.google.com/file/d/17b4P4vI0jdlxUXUsOkBZNb6aBDCxmigv/view?usp=sharing,10,"Access the Report: Review the attached nonclinical study report for Compound Z (see attachment below).
 Check for GLP Statement: Look for a specific statement confirming GLP compliance.
-If you can’t find it, report in OMEGA word that it doesn’t exist and how it violates compliance rules and regulations. Suggest corrective measures and click submit."
+If you can’t find it, report in OMEGA word that it doesn’t exist and how it violates compliance rules and regulations. Suggest corrective measures and click submit.",task
 course_6,Medical Affairs Free Trial,Bridge clinical evidence and strategy to support medical decision-making and stakeholder engagement.,ch_6_01,Trial Chapter,les_6_01_01,Scientific Writing Fundamentals,task_6_01_01_1,Draft a Dosage and Administration Section for a Product Monograph for Drug Z,"As a scientific writer at HealthDoc Solutions, you are tasked with drafting the Dosage and Administration section for a product monograph for Drug Z, a new antihypertensive drug. This simple task, designed for completion in 3 minutes, ensures compliance with ICH and FDA guidelines.
 
 Deliverables
@@ -65,4 +165,5 @@ Draft the Section with reference or by using AI: Write a concise Dosage and Admi
 Recommended dose for adults.
 Route of administration (e.g., oral).
 Key instructions (e.g., timing, food considerations).
-Write Deliverable: In 30 words, create a clear, scientifically accurate section suitable for healthcare professionals inside OMEGA WORD."
+Write Deliverable: In 30 words, create a clear, scientifically accurate section suitable for healthcare professionals inside OMEGA WORD.",task
+course_8,"Healthcare Consulting, Analytics and Digital Transformation","Covers healthcare consulting, analytical problem-solving and digital-transformation frameworks for operational and strategic improvement.",ch_8_01,Trial Chapter,les_8_01_01,Scientific Writing Fundamentals,task_8_01_01_1,"Architecting the Intelligent, Data-Driven Healthcare Ecosystem",,,,,,,
