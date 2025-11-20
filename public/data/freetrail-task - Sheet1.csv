@@ -14,7 +14,7 @@ Procedure: Laparoscopic cholecystectomy
 Post-op Day: 2
 Risk trajectory: Assessed as low risk 6 hours ago; the system now indicates a significant deterioration pattern with concurrent signals across several physiological domains.
 
-Your operational mandate within this scenario: interpret the surfaced intelligence, validate the warning pattern, and authorize the appropriate escalation to protect the patient and contain clinical risk.","1. Vitals Trajectory (AI-Enhanced Trend – last 6 hours)
+Your operational mandate within this scenario: interpret the surfaced intelligence, validate the warning pattern, and authorize the appropriate escalation to protect the patient and contain clinical risk.","""1. Vitals Trajectory (AI-Enhanced Trend – last 6 hours)
 Heart Rate: 78 → 112 bpm (accelerating)
 Respiratory Rate: 18 → 28 breaths/min
 SpO₂: 96% → 91% on room air
@@ -34,8 +34,9 @@ Morphine dose ↑ (pain breakthrough)
 IV fluids tapered to 75 mL/hr
 
 4. NLP Extract from Nursing Documentation (Sentiment = High Concern)
-""Patient diaphoretic, restless, chest tightness worsening, abdominal pain higher than baseline. Slight confusion noted. Breathing appears labored.""
-→ AI keyword cluster match: 91% similarity to past deterioration cases
+
+ """"Patient diaphoretic, restless, chest tightness worsening, abdominal pain higher than baseline. Slight confusion noted. Breathing appears labored.""""
+ → AI keyword cluster match: 91% similarity to past deterioration cases
 
 5. Predictive Engine Output
 Deterioration Risk Score: 0.78 (HIGH → Critical threshold)
@@ -44,19 +45,19 @@ Projected time to irreversible event: 4–8 hours without escalation
 Top drivers:
 Respiratory rate trajectory +29%
 Lactate momentum +22%
-NLP red-flag cluster +18%","Option A – Authorise Early Intervention Protocol (system-recommended for scores ≥0.75)
+NLP red-flag cluster +18%""","Option A  Authorise Early Intervention Protocol (system-recommended for scores ≥0.75)
 
 Immediate Rapid Response Team activation + stat labs + oxygen escalation + early sepsis bundle initiation
 
-Option B – Authorise Enhanced Monitoring Pathway
+Option B  Authorise Enhanced Monitoring Pathway
 
 q30-min vitals + telemetry + junior physician review mandated within 60 minutes + pre-staging of RRT
 
-Option C – Maintain Current Care Pathway
+Option C  Maintain Current Care Pathway
 
 No escalation; continue routine post-op protocol until morning rounds
 
-[The system is waiting for your authorisation]","If you chose A – Optimal Decision Intelligence
+","If you chose A – Optimal Decision Intelligence
 
 Outcome by 10:00 AM
 
@@ -165,5 +166,3 @@ Route of administration (e.g., oral).
 Key instructions (e.g., timing, food considerations).
 Write Deliverable: In 30 words, create a clear, scientifically accurate section suitable for healthcare professionals inside OMEGA WORD.",task
 course_8,"Healthcare Consulting, Analytics and Digital Transformation","Covers healthcare consulting, analytical problem-solving and digital-transformation frameworks for operational and strategic improvement.",ch_8_01,Trial Chapter,les_8_01_01,Scientific Writing Fundamentals,task_8_01_01_1,"Architecting the Intelligent, Data-Driven Healthcare Ecosystem",,,,,,,
-
-
