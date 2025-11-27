@@ -159,12 +159,11 @@ Outcome by 04:45 AM
 - LOS impact: +11 days
 - Financial impact: +₹11,50,000
 Your Decision Quality Score: 8th percentile
-Voiceover: “Multiple aligned signals were overridden. This is where decision intelligence prevents preventable harm.”",10,"understand the scenario 
-click the reference document
-understand teh situation 
-choose the wise option to save the patient 
-hint-""When risk ≥0.75 + multi-domain instability + NLP red flags converge → authorise immediate intervention.
-Delays of even 1–2 hours turn reversible physiology into rescue events.""",simulation,freemium
+Voiceover: “Multiple aligned signals were overridden. This is where decision intelligence prevents preventable harm.”",10,"Review the scenario.
+Open the reference document.
+Assess the situation.
+Select the option that preserves patient survival.
+Guidance: When calculated risk meets or exceeds 0.75, instability spans multiple domains, and NLP indicators show critical patterns, authorise immediate intervention. A delay of 1–2 hours can convert manageable physiology into a rescue-level event.",simulation,freemium
 course_8,L1sJ8hQe6M,"Healthcare Consulting, Analytics and Digital Transformation","Covers healthcare consulting, analytical problem-solving and digital-transformation frameworks for operational and strategic improvement.",ch_8_01,Trial Chapter,les_8_01_01,Strategic Enterprise Transformation Frameworks for Modern Healthcare,task_8_01_01_1,The 12-Minute $1.5 Billion Turnaround Challenge,"You have just been promoted to Global Head of the Oncology Franchise at AstraNova, a top-five pharmaceutical company with a $68B market capitalization. Your flagship $4.2B peak-sales asset Lytixra, a next-generation ADC for breast and lung cancer, has been on the market for 15 months. The latest board pack shows a major commercial miss: Year-1 revenue planned at $720M vs actual $298M (–59%), a current run-rate of $410M, tracking 43% below plan, and a five-year NPV exposure of –$1.46B. The CEO has escalated the situation with a direct message: “Fix this or we impair the asset. No excuses.” You now hold full authority, unrestricted budget, and the entire organization is awaiting your recovery plan.
 
 YOUR MISSION
