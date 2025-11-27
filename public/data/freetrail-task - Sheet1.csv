@@ -102,7 +102,7 @@ IV fluids tapered to 75 mL/hr
 
 4. NLP Extract from Nursing Documentation (Sentiment = High Concern)
 
-""""Patient diaphoretic, restless, chest tightness worsening, abdominal pain higher than baseline. Slight confusion noted. Breathing appears labored.""""
+""Patient diaphoretic, restless, chest tightness worsening, abdominal pain higher than baseline. Slight confusion noted. Breathing appears labored.""
 → AI keyword cluster match: 91% similarity to past deterioration cases
 
 5. Predictive Engine Output
