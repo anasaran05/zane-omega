@@ -125,42 +125,38 @@ Option C  Maintain Current Care Pathway
 No escalation; continue routine post-op protocol until morning rounds
 
 ","If you chose A – 
-Optimal Decision Intelligence
+Optimal Decision Intelligence - Outcome by 10:00 AM
 
-Outcome by 10:00 AM
-
-- RRT bedside in 7 minutes
-- Repeat lactate 3.8 → sepsis confirmed and reversed early
-- Patient stabilised on ward
-- Risk score falls 0.78 → 0.39
-- ICU transfer avoided
-- Projected LOS reduction: –1.8 days
-- Financial impact: –₹1,84,000 saved
+RRT bedside in 7 minutes
+Repeat lactate 3.8 → sepsis confirmed and reversed early
+Patient stabilised on ward
+Risk score falls 0.78 → 0.39
+ICU transfer avoided
+Projected LOS reduction: –1.8 days
+Financial impact: –₹1,84,000 saved
 Your Decision Quality Score: 94th percentile
 Voiceover: “You read converging signals and authorised decisive action. This is elite decision intelligence in practice.”
 
 If you chose B – 
 Suboptimal Delay
-
 Outcome by 06:30 AM
 
-- Progressive shock → emergency ICU transfer & intubation
-- Risk score climbs to 0.94
-- LOS impact: +4 days
-- Financial impact: +₹4,20,000
+Progressive shock → emergency ICU transfer & intubation
+Risk score climbs to 0.94
+LOS impact: +4 days
+Financial impact: +₹4,20,000
 Your Decision Quality Score: 52nd percentile
 Voiceover: “Enhanced monitoring bought time but missed the reversal window. High-risk convergence demands faster escalation.”
 
 If you chose C – 
 Intelligence Override (High Risk)
-
 Outcome by 04:45 AM
 
-- Code Blue → hypoxic arrest → ICU ventilated
-- Permanent renal injury
-- Risk score spikes → 0.98
-- LOS impact: +11 days
-- Financial impact: +₹11,50,000
+Code Blue → hypoxic arrest → ICU ventilated
+Permanent renal injury
+Risk score spikes → 0.98
+LOS impact: +11 days
+Financial impact: +₹11,50,000
 Your Decision Quality Score: 8th percentile
 Voiceover: “Multiple aligned signals were overridden. This is where decision intelligence prevents preventable harm.”",10,"Review the scenario.
 Open the reference document.
