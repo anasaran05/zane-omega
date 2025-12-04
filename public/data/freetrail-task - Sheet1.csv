@@ -1,5 +1,5 @@
-courseId,courseSlug,courseName,coursedescription,chapterId,chapterName,lessonId,lessonName,taskId,pdfUrls,tallyUrls,answerKeyUrl,xp,taskTitle,scenario,instructions,taskType,courseCategory,milestone,aiPrompt,milestoneTitle,milestoneBadge,careerImpact,skillsGained,imagePrompt,platform,steps,techAnchors,scenarioSeeds,interpretationClauses,microInsightExamples,chapterEvidenceInstruction
-course_1,7F3xk1aZbM,QA/QC Free Trial,"Gain hands-on expertise in ensuring product quality, compliance, and error-free manufacturing workflows.",ch_1_01,Trial Chapter,les_1_01_01,Entering the Ward Zone – Hospital QMS Framework & Accreditation Codes,task_1_01_01_1,https://drive.google.com/file/d/1bLmLXpRb4qXC4-P6qaqpUwd56AAr9OVS/view?usp=sharing,https://tally.so/r/nrN8Nv,https://drive.google.com/file/d/17drwExMRHIqFB9BL4pECh31M4hVZ7qwD/view?usp=sharing,10,Ward QMS Compliance Audit,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, Quality Assurance Lead. During a routine ward audit in Ward 3 (General Medicine), you review the Hand Hygiene Compliance Log (LOG-2025-027) against SOP-QA-010 (Hand Hygiene Protocol). 
+courseId,courseSlug,courseName,coursedescription,chapterId,chapterName,lessonId,lessonName,taskId,taskTitle,pdfUrls,tallyUrls,answerKeyUrl,xp,scenario,instructions,taskType,courseCategory,milestone,aiPrompt,milestoneTitle,milestoneBadge,careerImpact,skillsGained,imagePrompt,platform,steps,techAnchors,scenarioSeeds,interpretationClauses,microInsightExamples,chapterEvidenceInstruction
+course_1,7F3xk1aZbM,QA/QC Free Trial,"Gain hands-on expertise in ensuring product quality, compliance, and error-free manufacturing workflows.",ch_1_01,Trial Chapter,les_1_01_01,Entering the Ward Zone – Hospital QMS Framework & Accreditation Codes,task_1_01_01_1,Ward QMS Compliance Audit,https://drive.google.com/file/d/1bLmLXpRb4qXC4-P6qaqpUwd56AAr9OVS/view?usp=sharing,https://tally.so/r/nrN8Nv,https://drive.google.com/file/d/17drwExMRHIqFB9BL4pECh31M4hVZ7qwD/view?usp=sharing,10,"You are a Junior Quality Control Analyst at Zenith Hospital, reporting to Dr. Meera Nair, Quality Assurance Lead. During a routine ward audit in Ward 3 (General Medicine), you review the Hand Hygiene Compliance Log (LOG-2025-027) against SOP-QA-010 (Hand Hygiene Protocol). 
 
 You find that 6 out of 10 shift logs lack hand hygiene verification entries, violating SOP-QA-010 and NABH Standard AAC.5 (Access to Care and Continuity). Dr. Nair instructs you to document the non-compliance and recommend improvements using the Compliance Verification Form to prepare for an upcoming NABH audit.
 
@@ -71,7 +71,7 @@ Click Post Entry and your article goes live instantly.","{“title”:“SOP-to-
 I didn’t expect documentation errors to show up so easily in a high-traffic ward.
 Seeing the waste segregation mismatch changed how I view infection control.
 The expired item taught me why routine checks cannot be taken lightly.",
-course_2,Q9pL2vHs4X,Clinical Research Free Trial,Understand and execute end-to-end clinical trial operations with scientific rigor and ethical precision.,ch_2_01,Trial Chapter,les_2_01_01,Source Data Verification (SDV),task_2_01_01_1,https://drive.google.com/file/d/1vrWK9BE0LZMRiC4LP8yD6_Hqep43lKoZ/view?usp=sharing,https://tally.so/r/w5NPbv,https://drive.google.com/file/d/11LbrGbV3o5VtVH7JY1-jQBM4nms_gf4M/view?usp=sharing,10,SDV Simulation Task: Quick Data Check Challenge,"You’re a Clinical Research Associate (CRA) for PharmaCorp, checking data for a lung cancer drug trial, OncoX-500. At Site 001 in Boston, you’ll review records for one patient to ensure the trial data is correct and safe, following simple research rules.
+course_2,Q9pL2vHs4X,Clinical Research Free Trial,Understand and execute end-to-end clinical trial operations with scientific rigor and ethical precision.,ch_2_01,Trial Chapter,les_2_01_01,Source Data Verification (SDV),task_2_01_01_1,SDV Simulation Task: Quick Data Check Challenge,https://drive.google.com/file/d/1vrWK9BE0LZMRiC4LP8yD6_Hqep43lKoZ/view?usp=sharing,https://tally.so/r/w5NPbv,https://drive.google.com/file/d/11LbrGbV3o5VtVH7JY1-jQBM4nms_gf4M/view?usp=sharing,10,"You’re a Clinical Research Associate (CRA) for PharmaCorp, checking data for a lung cancer drug trial, OncoX-500. At Site 001 in Boston, you’ll review records for one patient to ensure the trial data is correct and safe, following simple research rules.
 
 Deliverables 
 Make your final report inside OMEGA.
@@ -155,7 +155,7 @@ Click Post Entry and your article goes live instantly.","{""title"":""Source-to-
 The overwritten value made me rethink how fragile source accuracy can be.
 Seeing the timestamp mismatch made me appreciate why SDV exists.
 The CRF looked correct until I compared every value side by side.",
-course_3,m8Rz0KcN5T,Pharmacovigilance Free Trial,"Monitor, evaluate, and manage drug safety to protect patients and ensure regulatory compliance.",ch_3_01,Trial Chapter,les_3_01_01,Classification of an Adverse Event,task_3_01_01_1,https://drive.google.com/file/d/1Vv3cdBbMxT417MwNdjlmQWakfTEcmvtP/view?usp=sharing,https://tally.so/r/wdLJLA ,https://drive.google.com/file/d/1pFZ-WfIphOBIA1PXhQUsnxShaq1h5roh/view?usp=sharing,10,Identify Correct Classification of an Adverse Event in a Clinical Study Report,"As a Pharmacovigilance Specialist at MediSafe Inc., your task is to review a clinical study report for Drug X and check whether a reported event is classified correctly.
+course_3,m8Rz0KcN5T,Pharmacovigilance Free Trial,"Monitor, evaluate, and manage drug safety to protect patients and ensure regulatory compliance.",ch_3_01,Trial Chapter,les_3_01_01,Classification of an Adverse Event,task_3_01_01_1,Identify Correct Classification of an Adverse Event in a Clinical Study Report,https://drive.google.com/file/d/1Vv3cdBbMxT417MwNdjlmQWakfTEcmvtP/view?usp=sharing,https://tally.so/r/wdLJLA ,https://drive.google.com/file/d/1pFZ-WfIphOBIA1PXhQUsnxShaq1h5roh/view?usp=sharing,10,"As a Pharmacovigilance Specialist at MediSafe Inc., your task is to review a clinical study report for Drug X and check whether a reported event is classified correctly.
 The report currently labels the problem as an Adverse Drug Reaction (ADR). Your job is to confirm if this is accurate or if it should be reclassified as an Adverse Event (AE), Serious Adverse Event (SAE), or ADR.
 This quick, 3-minute review ensures the report follows ICH-GCP guidelines.
 
@@ -227,7 +227,7 @@ Click Save and Continue and your paper goes live with a shareable link.","{“ti
 Matching the CSR narrative with AE criteria was more complex than I expected.
 This exercise showed me why one wrong classification can skew the entire safety profile.
 Seeing the mismatch between seriousness criteria and investigator notes was eye-opening.",
-course_4,D3wY7bPe9J,CDM Free Trial,"Organize, validate, and analyze clinical trial data to enable accurate and reliable study outcomes.",ch_4_01,Trial Chapter,les_4_01_01,Adverse Events Documenting,task_4_01_01_1,https://drive.google.com/file/d/1jeApXg39xjmnCf3ahHVk4WQevQ7SqllV/view?usp=sharing,https://tally.so/r/wdLJLA ,https://drive.google.com/file/d/19TtV2gfuEKcOfZm42HKZDd7T9RkGsN-T/view?usp=sharing,10,Document Adverse Events Data for Drug Z Trial Using AI,"As a clinical data manager at DataCore Solutions, your supervisor has emailed you a casually formatted dataset of adverse events (AEs) from the Drug Z Phase II trial. They request that you use an AI tool (e.g., Claude) to refine and professionally document this data into a structured summary table for a clinical study report, ensuring compliance with ICH-GCP guidelines. This straightforward task is designed for completion in 3 minutes.
+course_4,D3wY7bPe9J,CDM Free Trial,"Organize, validate, and analyze clinical trial data to enable accurate and reliable study outcomes.",ch_4_01,Trial Chapter,les_4_01_01,Adverse Events Documenting,task_4_01_01_1,Document Adverse Events Data for Drug Z Trial Using AI,https://drive.google.com/file/d/1jeApXg39xjmnCf3ahHVk4WQevQ7SqllV/view?usp=sharing,https://tally.so/r/wdLJLA ,https://drive.google.com/file/d/19TtV2gfuEKcOfZm42HKZDd7T9RkGsN-T/view?usp=sharing,10,"As a clinical data manager at DataCore Solutions, your supervisor has emailed you a casually formatted dataset of adverse events (AEs) from the Drug Z Phase II trial. They request that you use an AI tool (e.g., Claude) to refine and professionally document this data into a structured summary table for a clinical study report, ensuring compliance with ICH-GCP guidelines. This straightforward task is designed for completion in 3 minutes.
 
 Deliverables
 A 30-word summary table (in text format) professionally documenting the AEs, their frequencies (Drug Z vs. placebo), and severity, formatted for a clinical study report.","Review the Email Data: Access the supervisor’s emailed AE dataset (attached below).
@@ -296,7 +296,7 @@ Click Post Entry and your article goes live instantly.","{“title”:“AI-Assi
 The date mismatch taught me why automated tools cannot replace CDM judgment.
 Seeing AI pull an incorrect severity level made me rethink validation steps.
 This task showed me how easily AE fields collapse if the verbatim text is wrong.",
-course_5,H6qV1nSu8L,Regulatory Affairs Free Trial,Navigate complex regulatory landscapes to achieve approvals and maintain compliance efficiently.,ch_5_01,Trial Chapter,les_5_01_01,Nonclinical Data Structure with AI Parsing,task_5_01_01_1,https://drive.google.com/file/d/1ncDJlkrclQnbNA9bVBEIrWbvlNQhrHhl/view?usp=sharing,https://tally.so/r/wdLJLA ,https://drive.google.com/file/d/17b4P4vI0jdlxUXUsOkBZNb6aBDCxmigv/view?usp=sharing,10,Identify Missing GLP Compliance Statement in a Nonclinical Study Report,"As a regulatory scientist at PharmaCorp, you are tasked with reviewing a nonclinical study report for Compound Z to determine if it includes a Good Laboratory Practice (GLP) compliance statement, as required by ICH M3 and OECD GLP guidelines. This straightforward task should take approximately 3 minutes.
+course_5,H6qV1nSu8L,Regulatory Affairs Free Trial,Navigate complex regulatory landscapes to achieve approvals and maintain compliance efficiently.,ch_5_01,Trial Chapter,les_5_01_01,Nonclinical Data Structure with AI Parsing,task_5_01_01_1,Identify Missing GLP Compliance Statement in a Nonclinical Study Report,https://drive.google.com/file/d/1ncDJlkrclQnbNA9bVBEIrWbvlNQhrHhl/view?usp=sharing,https://tally.so/r/wdLJLA ,https://drive.google.com/file/d/17b4P4vI0jdlxUXUsOkBZNb6aBDCxmigv/view?usp=sharing,10,"As a regulatory scientist at PharmaCorp, you are tasked with reviewing a nonclinical study report for Compound Z to determine if it includes a Good Laboratory Practice (GLP) compliance statement, as required by ICH M3 and OECD GLP guidelines. This straightforward task should take approximately 3 minutes.
 
 Deliverables
 A 30-word statement indicating whether the report contains a GLP compliance statement or not, if missing, recommending its inclusion to ensure regulatory compliance. Put it inside OMEGA WORD.","Access the Report: Review the attached nonclinical study report for Compound Z (see attachment below).
@@ -364,7 +364,7 @@ Click Post Entry and your article goes live instantly.","{“title”:“GLP Com
 The GLP wording looked trivial until I saw how inspectors rely on it.
 Checking the Study Director’s section taught me where compliance really sits.
 This task exposed how dangerous outdated templates can be.",
-course_6,Z2tC5xGj0R,Medical Affairs Free Trial,Bridge clinical evidence and strategy to support medical decision-making and stakeholder engagement.,ch_6_01,Trial Chapter,les_6_01_01,Scientific Writing Fundamentals,task_6_01_01_1,https://drive.google.com/file/d/1j6C4ni5C_rOFV1ZE0P5Z-on7RRWmMWsq/view?usp=sharing,https://tally.so/r/wdLJLA ,https://drive.google.com/file/d/1jrIqIbSoHSNJBXh1nF3sq64gCqPv5VQg/view?usp=sharing,10,Draft a Dosage and Administration Section for a Product Monograph for Drug Z,"As a scientific writer at HealthDoc Solutions, you are tasked with drafting the Dosage and Administration section for a product monograph for Drug Z, a new antihypertensive drug. This simple task, designed for completion in 3 minutes, ensures compliance with ICH and FDA guidelines.
+course_6,Z2tC5xGj0R,Medical Affairs Free Trial,Bridge clinical evidence and strategy to support medical decision-making and stakeholder engagement.,ch_6_01,Trial Chapter,les_6_01_01,Scientific Writing Fundamentals,task_6_01_01_1,Draft a Dosage and Administration Section for a Product Monograph for Drug Z,https://drive.google.com/file/d/1j6C4ni5C_rOFV1ZE0P5Z-on7RRWmMWsq/view?usp=sharing,https://tally.so/r/wdLJLA ,https://drive.google.com/file/d/1jrIqIbSoHSNJBXh1nF3sq64gCqPv5VQg/view?usp=sharing,10,"As a scientific writer at HealthDoc Solutions, you are tasked with drafting the Dosage and Administration section for a product monograph for Drug Z, a new antihypertensive drug. This simple task, designed for completion in 3 minutes, ensures compliance with ICH and FDA guidelines.
 
 Deliverables
 OMEGA WORD:
@@ -436,7 +436,7 @@ Click Save and Continue and your paper goes live with a shareable link.","{“ti
 Writing the titration steps made me appreciate how easily medical errors occur.
 Balancing safety warnings with dose clarity felt more complicated than expected.
 Integrating data from different studies showed me how monographs are built piece by piece.",
-course_7,P4kN9dWf3B,"AI Driven Healthcare Analytics, Decision Intelligence and Predictive Care Systems.","Focuses on AI-powered healthcare analytics, decision intelligence and predictive-care system design for outcome optimization.",ch_7_01,Trial Chapter,les_7_01_01,"Architecting the Intelligent, Data-Driven Healthcare Ecosystem",task_7_01_01_1,"1. Vitals Trajectory (AI-Enhanced Trend – last 6 hours)
+course_7,P4kN9dWf3B,"AI Driven Healthcare Analytics, Decision Intelligence and Predictive Care Systems.","Focuses on AI-powered healthcare analytics, decision intelligence and predictive-care system design for outcome optimization.",ch_7_01,Trial Chapter,les_7_01_01,"Architecting the Intelligent, Data-Driven Healthcare Ecosystem",task_7_01_01_1,Decision Room: Patient Deterioration Crisis,"1. Vitals Trajectory (AI-Enhanced Trend – last 6 hours)
 Heart Rate: 78 → 112 bpm (accelerating)
 Respiratory Rate: 18 → 28 breaths/min
 SpO₂: 96% → 91% on room air
@@ -480,6 +480,8 @@ Option C  Maintain Current Care Pathway
 No escalation; continue routine post-op protocol until morning rounds
 
 ","If you chose A – 
+“You read converging signals and authorised decisive action. This is elite decision intelligence in practice.”
+
 Optimal Decision Intelligence - Outcome by 10:00 AM
 
 RRT bedside in 7 minutes
@@ -490,22 +492,23 @@ ICU transfer avoided
 Projected LOS reduction: –1.8 days
 Financial impact: –₹1,84,000 saved
 Your Decision Quality Score: 94th percentile
-Voiceover: “You read converging signals and authorised decisive action. This is elite decision intelligence in practice.”
+Voiceover: 
 
 If you chose B – 
-Suboptimal Delay
-Outcome by 06:30 AM
+“Enhanced monitoring bought time but missed the reversal window. High-risk convergence demands faster escalation.”
+
+Suboptimal Delay - Outcome by 06:30 AM
 
 Progressive shock → emergency ICU transfer & intubation
 Risk score climbs to 0.94
 LOS impact: +4 days
 Financial impact: +₹4,20,000
 Your Decision Quality Score: 52nd percentile
-Voiceover: “Enhanced monitoring bought time but missed the reversal window. High-risk convergence demands faster escalation.”
 
 If you chose C – 
-Intelligence Override (High Risk)
-Outcome by 04:45 AM
+“Multiple aligned signals were overridden. This is where decision intelligence prevents preventable harm.”
+
+Intelligence Override (High Risk) - Outcome by 04:45 AM
 
 Code Blue → hypoxic arrest → ICU ventilated
 Permanent renal injury
@@ -513,7 +516,7 @@ Risk score spikes → 0.98
 LOS impact: +11 days
 Financial impact: +₹11,50,000
 Your Decision Quality Score: 8th percentile
-Voiceover: “Multiple aligned signals were overridden. This is where decision intelligence prevents preventable harm.”",10,Decision Room: Patient Deterioration Crisis,"Time: 02:14 AM
+",10,"Time: 02:14 AM
 Location: Central Clinical Command Center
 Environment: Dark command-center style interface with multiple surveillance screens, telemetry grids, and a subtle pulsing red alert indicator across the top status rail
 
@@ -594,7 +597,7 @@ Click Post Entry and your article goes live instantly.","{“title”:“Multi-S
 The NLP red flags hit harder than the vitals, it felt like the patient was speaking through the chart.
 The model’s trajectory graph showed me more truth than the snapshot vitals ever could.
 Authorizing early intervention felt like holding a life in my hands.",
-course_8,L1sJ8hQe6M,"Healthcare Consulting, Analytics and Digital Transformation","Covers healthcare consulting, analytical problem-solving and digital-transformation frameworks for operational and strategic improvement.",ch_8_01,Trial Chapter,les_8_01_01,Strategic Enterprise Transformation Frameworks for Modern Healthcare,task_8_01_01_1,"Quick facts already confirmed by your team (use them!):
+course_8,L1sJ8hQe6M,"Healthcare Consulting, Analytics and Digital Transformation","Covers healthcare consulting, analytical problem-solving and digital-transformation frameworks for operational and strategic improvement.",ch_8_01,Trial Chapter,les_8_01_01,Strategic Enterprise Transformation Frameworks for Modern Healthcare,task_8_01_01_1,The 12-Minute $1.5 Billion Turnaround Challenge,"Quick facts already confirmed by your team (use them!):
 
 - 51 % of the revenue gap = patients never fill the script after physician writes it (specialty pharmacy + HUB leakage)
 - 29 % = field force still calling on yesterday’s “top decile” list (now only 38 % of volume)
@@ -613,7 +616,7 @@ course_8,L1sJ8hQe6M,"Healthcare Consulting, Analytics and Digital Transformation
 
 **Killer CEO metric (Slide 3):**
 
-**Recover $1.18B in 24 months.**",10,The 12-Minute $1.5 Billion Turnaround Challenge,"You have just been promoted to Global Head of the Oncology Franchise at AstraNova, a top-five pharmaceutical company with a $68B market capitalization. Your flagship $4.2B peak-sales asset Lytixra, a next-generation ADC for breast and lung cancer, has been on the market for 15 months. The latest board pack shows a major commercial miss: Year-1 revenue planned at $720M vs actual $298M (–59%), a current run-rate of $410M, tracking 43% below plan, and a five-year NPV exposure of –$1.46B. The CEO has escalated the situation with a direct message: “Fix this or we impair the asset. No excuses.” You now hold full authority, unrestricted budget, and the entire organization is awaiting your recovery plan.
+**Recover $1.18B in 24 months.**",10,"You have just been promoted to Global Head of the Oncology Franchise at AstraNova, a top-five pharmaceutical company with a $68B market capitalization. Your flagship $4.2B peak-sales asset Lytixra, a next-generation ADC for breast and lung cancer, has been on the market for 15 months. The latest board pack shows a major commercial miss: Year-1 revenue planned at $720M vs actual $298M (–59%), a current run-rate of $410M, tracking 43% below plan, and a five-year NPV exposure of –$1.46B. The CEO has escalated the situation with a direct message: “Fix this or we impair the asset. No excuses.” You now hold full authority, unrestricted budget, and the entire organization is awaiting your recovery plan.
 
 YOUR MISSION
 Using the ZANE 5D Enterprise Framework, deliver the complete rescue strategy in five bullet-proof sentences – one per phase.
