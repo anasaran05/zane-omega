@@ -436,7 +436,22 @@ Click Save and Continue and your paper goes live with a shareable link.","{“ti
 Writing the titration steps made me appreciate how easily medical errors occur.
 Balancing safety warnings with dose clarity felt more complicated than expected.
 Integrating data from different studies showed me how monographs are built piece by piece.",
-course_7,P4kN9dWf3B,"AI Driven Healthcare Analytics, Decision Intelligence and Predictive Care Systems.","Focuses on AI-powered healthcare analytics, decision intelligence and predictive-care system design for outcome optimization.",ch_7_01,Trial Chapter,les_7_01_01,"Architecting the Intelligent, Data-Driven Healthcare Ecosystem",task_7_01_01_1,Decision Room: Patient Deterioration Crisis,"1. Vitals Trajectory (AI-Enhanced Trend – last 6 hours)
+course_7,P4kN9dWf3B,"AI Driven Healthcare Analytics, Decision Intelligence and Predictive Care Systems.","Focuses on AI-powered healthcare analytics, decision intelligence and predictive-care system design for outcome optimization.",ch_7_01,Trial Chapter,les_7_01_01,"Architecting the Intelligent, Data-Driven Healthcare Ecosystem",task_7_01_01_1,Decision Room: Patient Deterioration Crisis,"Time: 02:14 AM
+Location: Central Clinical Command Center
+Environment: Dark command-center style interface with multiple surveillance screens, telemetry grids, and a subtle pulsing red alert indicator across the top status rail
+
+A Critical Risk Alert has surfaced on your master console, auto-elevated by the hospital’s predictive care engine. You are functioning in your designated role as the Healthcare Decision Intelligence Analyst for the Clinical Command Center, responsible for interpreting real-time AI signals and authorizing escalation pathways for frontline units.
+
+A bedside nursing team submitted concern flags minutes earlier, and the system has now routed the case to Command Center authority due to the emergence of a multi-system warning pattern.
+
+Patient: Rajesh Kumar
+Age: 64
+Current status: Post-operative
+Procedure: Laparoscopic cholecystectomy
+Post-op Day: 2
+Risk trajectory: Assessed as low risk 6 hours ago; the system now indicates a significant deterioration pattern with concurrent signals across several physiological domains.
+
+Your operational mandate within this scenario: interpret the surfaced intelligence, validate the warning pattern, and authorize the appropriate escalation to protect the patient and contain clinical risk.","1. Vitals Trajectory (AI-Enhanced Trend – last 6 hours)
 Heart Rate: 78 → 112 bpm (accelerating)
 Respiratory Rate: 18 → 28 breaths/min
 SpO₂: 96% → 91% on room air
@@ -480,8 +495,6 @@ Option C  Maintain Current Care Pathway
 No escalation; continue routine post-op protocol until morning rounds
 
 ","If you chose A – 
-“You read converging signals and authorised decisive action. This is elite decision intelligence in practice.”
-
 Optimal Decision Intelligence - Outcome by 10:00 AM
 
 RRT bedside in 7 minutes
@@ -492,23 +505,22 @@ ICU transfer avoided
 Projected LOS reduction: –1.8 days
 Financial impact: –₹1,84,000 saved
 Your Decision Quality Score: 94th percentile
-Voiceover: 
+Voiceover: “You read converging signals and authorised decisive action. This is elite decision intelligence in practice.”
 
 If you chose B – 
-“Enhanced monitoring bought time but missed the reversal window. High-risk convergence demands faster escalation.”
-
-Suboptimal Delay - Outcome by 06:30 AM
+Suboptimal Delay
+Outcome by 06:30 AM
 
 Progressive shock → emergency ICU transfer & intubation
 Risk score climbs to 0.94
 LOS impact: +4 days
 Financial impact: +₹4,20,000
 Your Decision Quality Score: 52nd percentile
+Voiceover: “Enhanced monitoring bought time but missed the reversal window. High-risk convergence demands faster escalation.”
 
 If you chose C – 
-“Multiple aligned signals were overridden. This is where decision intelligence prevents preventable harm.”
-
-Intelligence Override (High Risk) - Outcome by 04:45 AM
+Intelligence Override (High Risk)
+Outcome by 04:45 AM
 
 Code Blue → hypoxic arrest → ICU ventilated
 Permanent renal injury
@@ -516,22 +528,7 @@ Risk score spikes → 0.98
 LOS impact: +11 days
 Financial impact: +₹11,50,000
 Your Decision Quality Score: 8th percentile
-",10,"Time: 02:14 AM
-Location: Central Clinical Command Center
-Environment: Dark command-center style interface with multiple surveillance screens, telemetry grids, and a subtle pulsing red alert indicator across the top status rail
-
-A Critical Risk Alert has surfaced on your master console, auto-elevated by the hospital’s predictive care engine. You are functioning in your designated role as the Healthcare Decision Intelligence Analyst for the Clinical Command Center, responsible for interpreting real-time AI signals and authorizing escalation pathways for frontline units.
-
-A bedside nursing team submitted concern flags minutes earlier, and the system has now routed the case to Command Center authority due to the emergence of a multi-system warning pattern.
-
-Patient: Rajesh Kumar
-Age: 64
-Current status: Post-operative
-Procedure: Laparoscopic cholecystectomy
-Post-op Day: 2
-Risk trajectory: Assessed as low risk 6 hours ago; the system now indicates a significant deterioration pattern with concurrent signals across several physiological domains.
-
-Your operational mandate within this scenario: interpret the surfaced intelligence, validate the warning pattern, and authorize the appropriate escalation to protect the patient and contain clinical risk.","Review the scenario.
+Voiceover: “Multiple aligned signals were overridden. This is where decision intelligence prevents preventable harm.”",10,"Review the scenario.
 Open the reference document.
 Assess the situation.
 Select the option that preserves patient survival.
@@ -627,3 +624,4 @@ Keep each sentence <28 words, forcefully factual, numbers included, no adjective
 Prioritize the three highest-leverage fixes: repair SP/HUB flow, deploy AI targeting, unify value story; everything else is noise.
 Use a 100-day deployment anchor for D4 and a 12–24-month financial recovery anchor for D5 to make the plan operational and credible.
 Ensure the final metric in D5 directly reflects recovered fulfillment, prescribing lift, and revenue regained linked to the earlier drivers.",consulting,freemium,no,,,,,,,,,,,,,
+
